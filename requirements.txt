@@ -1,0 +1,8 @@
+openai
+fastapi[standard]
+pydantic
+langchain
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+passlib[bcrypt]  # For password hashing
